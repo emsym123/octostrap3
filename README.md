@@ -7,7 +7,7 @@ http://kaworu.github.io/octopress/ for setup instructions, customization and exa
 You can get the demo's source here: https://github.com/kAworu/octopress/tree/octostrap3-demo
 
 Quick install
-=============
+=================
 
 ```
   % cd octopress
@@ -24,5 +24,5 @@ the `master` branch from https://github.com/imathis/octopress
 (documented at http://octopress.org/).
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kAworu/octostrap3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+ [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kAworu/octostrap3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
